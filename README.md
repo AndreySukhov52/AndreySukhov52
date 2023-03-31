@@ -32,6 +32,8 @@
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=AndreySukhov52&show_icons=true&count_private=true&hide_border=true" align="center" /></div> 
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AndreySukhov52&theme=prussian)
+
 <!--
 **AndreySukhov52/AndreySukhov52** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
