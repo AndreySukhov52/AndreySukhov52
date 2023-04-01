@@ -1,6 +1,6 @@
 <div id="header" align="center">
     <h1>Всем привет, меня зовут Андрей! 👋</h1>
-    <h3>Junior Frontend Developer</h3>
+    <h2>Junior Frontend Developer</h2>
 </div>
 
 ##    👇  Обо мне  👇
@@ -17,13 +17,14 @@
 <a href="https://webpack.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/webpack-original.svg" alt="Webpack" height="50" /></a>
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
 <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>
-   
 </div>
 
+<!--
 ## Мои проекты:
 <a href="https://github.com/AndreySukhov52?tab=repositories" target="_blank">
         <img style="margin: 10px" src="https://img.shields.io/badge/GitHub-informational?style=flat&logo=GitHub&logoColor=white&labelColor=181717&color=4E4E4E" alt="Github home page" height="50" /></a>
-        
+-->
+
 ##  ☎️ Мои контакты
 
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/@andrey_suhov_rus)
