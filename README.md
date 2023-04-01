@@ -1,6 +1,6 @@
 <div id="header" align="center">
     <h1>Всем привет, меня зовут Андрей! 👋</h1>
-    <h3>Я начинающий начинающий фронтенд разработчик</h3>
+    <h3>Junior Frontend Developer</h3>
 </div>
 
 ##    👇  Обо мне  👇
